@@ -11,12 +11,12 @@ Here are some of my work to get you started:
 ### 🛠️ Projects & Hackathons
 
 #### 🔶 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
-🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025*  
+🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
 A React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
 #### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
-🏆 *Finalist (top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025*
-Developed a real-time visual monitoring system for satellite activities with anomaly detection using YOLOv8. Our team focused on space security, simulating unusual behavior in satellite constellations with data generation and model fine-tuning.
+🏆 *Finalist (top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025* <br>
+A React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
 #### 🧠 [Hackomania 2025](https://github.com/Path-yang/Hackomania_2025)
 Built *NoFap*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
