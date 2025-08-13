@@ -11,16 +11,18 @@ Here are some of my work to get you started:
 ### 🛠️ Projects & Hackathons
 
 #### 🔶 [Sigmapore](https://github.com/clemenong1/Sigmapore)
-🏆 *Finalist (top 10 out of 60+ teams) @ NUS Lifehack 2025*  
+🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025*  
 An innovative mental wellness app that empowers youth to track, manage, and reflect on their digital consumption habits using gamification and AI-powered feedback. I collaborated on both the frontend UI and prompt engineering for GPT-based components.
 
-#### 🚀 [DSTA Brainhack: Code EXP 2025](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+#### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+🏆 *Finalist (top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025*
 Developed a real-time visual monitoring system for satellite activities with anomaly detection using YOLOv8. Our team focused on space security, simulating unusual behavior in satellite constellations with data generation and model fine-tuning.
 
 #### 🧠 [Hackomania 2025](https://github.com/Path-yang/Hackomania_2025)
 Built *Fitnition*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
 
-#### ⚓ [Maritime Hackathon 2025](https://github.com/Path-yang/Maritime-Hackathon-2025)
+#### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
+🏆 *TOP 3 @ Maritime Hackathon 2025*
 Created a BERT-based classification pipeline that predicts the severity of vessel deficiencies from inspection reports. Used NLP techniques to resolve multi-annotator inconsistencies and trained a transformer model for inference-ready deployment.
 
 ---
@@ -35,7 +37,8 @@ Designed and implemented a modular event-driven simulator in Java, using functio
 ### 💼 Internship Project
 
 #### 🌐 [Kingleader Poultry Website](https://www.kingleaderpoultry.com/)
-Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Singapore. Features include a quotation form, dynamic product listing, and SEO optimization for improved search discoverability. Tech stack includes HTML, CSS, JS, and embedded Google Forms.
+Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Singapore. Features include a quotation form, dynamic product listing, and SEO optimization for improved search discoverability. Tech stack includes HTML, CSS, JS, and embedded Google Forms. <br> 
+Currently working on a machine learning project to detect chicken that are not laying eggs in the farm
 
 ---
 
