@@ -19,7 +19,7 @@ An innovative mental wellness app that empowers youth to track, manage, and refl
 Developed a real-time visual monitoring system for satellite activities with anomaly detection using YOLOv8. Our team focused on space security, simulating unusual behavior in satellite constellations with data generation and model fine-tuning.
 
 #### 🧠 [Hackomania 2025](https://github.com/Path-yang/Hackomania_2025)
-Built *Fitnition*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
+Built *NoFap*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
 
 #### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
 🏆 *TOP 3 @ Maritime Hackathon 2025*
@@ -66,9 +66,5 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-- 🧑‍💻 I’m currently working on ... AI-native tools, prompt engineering, and front-end experiments with LLMs  
-- 🌱 I’m currently learning ... backend frameworks, serverless architecture, and agent workflows  
-- 🤝 I’m looking to collaborate on ... open-source projects or student-led hackathons  
-- 💬 Ask me about ... CS2030 functional programming or how to build apps with AI SDKs  
-- ✨ Fun fact: I built my first AI agent before learning recursion 😅
+- 🧑‍💻 I’m currently working on a stealth startup with my friends
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
