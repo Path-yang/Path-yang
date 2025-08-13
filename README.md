@@ -37,8 +37,8 @@ Designed and implemented a modular event-driven simulator in Java, using functio
 ### 💼 Internship Project
 
 #### 🌐 [Kingleader Poultry Website](https://www.kingleaderpoultry.com/)
-Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Singapore. Features include a quotation form, dynamic product listing, and SEO optimization for improved search discoverability. Tech stack includes HTML, CSS, JS, and embedded Google Forms. <br> 
-Currently working on a machine learning project to detect chicken that are not laying eggs in the farm
+Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Myanmar. Features include an interactive home page, dynamic product listing, and a "contact us" form linked to the company's email  <br> 
+Currently working on a machine learning project to detect chicken that are not laying eggs in the farm.
 
 ---
 
