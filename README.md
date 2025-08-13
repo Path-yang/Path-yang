@@ -59,8 +59,7 @@ Currently working on a machine learning project to detect chicken that are not l
 [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)]() 
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
 ---
 
 ### 📬 Contact
