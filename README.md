@@ -22,8 +22,8 @@ Developed a real-time visual monitoring system for satellite activities with ano
 Built *NoFap*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
 
 #### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
-🏆 *TOP 3 @ Maritime Hackathon 2025*
-Created a BERT-based classification pipeline that predicts the severity of vessel deficiencies from inspection reports. Used NLP techniques to resolve multi-annotator inconsistencies and trained a transformer model for inference-ready deployment.
+🏆 *TOP 3 @ Maritime Hackathon 2025* <br>
+Developed an end-to-end NLP pipeline leveraging DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning, label resolution, and model fine-tuning
 
 ---
 
