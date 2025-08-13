@@ -10,7 +10,7 @@ Here are some of my work to get you started:
 
 ### 🛠️ Projects & Hackathons
 
-#### 🔶 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
+#### 🏥  [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
 A React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
@@ -18,8 +18,8 @@ A React Native app that integrates real-time Singapore health data, GPT-powered 
 🏆 *Finalist (top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025* <br>
 A React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
-#### 🧠 [Hackomania 2025](https://github.com/Path-yang/Hackomania_2025)
-Built *NoFap*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
+#### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
+Built duriong *Hackomania 2025*, an AI-powered fitness app that leverages GPT-4 Vision to evaluate user poses and reps from uploaded videos. Designed for personalized form correction and real-time coaching in a privacy-conscious setup.
 
 #### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
 🏆 *TOP 3 @ Maritime Hackathon 2025* <br>
@@ -69,5 +69,5 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-- 🧑‍💻 I’m currently working on a stealth startup with my friends <br>
+🧑‍💻 I’m currently working on a stealth startup with my friends on AR/VR and video generation. We will be apply for a few grants too! Reachout to me if you would like to collaborate or contribute! <br>
 
