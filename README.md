@@ -58,6 +58,9 @@ Currently working on a machine learning project to detect chicken that are not l
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() 
 [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)]() 
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
 ---
 
 ### 📬 Contact
@@ -68,4 +71,4 @@ Currently working on a machine learning project to detect chicken that are not l
 ---
 
 - 🧑‍💻 I’m currently working on a stealth startup with my friends <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
+
