@@ -44,19 +44,20 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ### 💻 Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Ileriayo/markdown-badges)  
-[![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Ileriayo/markdown-badges)  
-[![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Ileriayo/markdown-badges)  
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Ileriayo/markdown-badges)  
-[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() 
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() 
+[![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() 
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
+[![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
+[![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
+[![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() 
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+
+[![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() 
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)]() 
+[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 ---
 
 ### 📬 Contact
@@ -66,5 +67,5 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-- 🧑‍💻 I’m currently working on a stealth startup with my friends
+- 🧑‍💻 I’m currently working on a stealth startup with my friends <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Path-yang&layout=compact)
