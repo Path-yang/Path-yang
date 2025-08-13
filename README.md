@@ -19,7 +19,7 @@ A React Native app that integrates real-time Singapore health data, GPT-powered 
 A React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
 #### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
-Built duriong *Hackomania 2025*, it is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
+Built during *Hackomania 2025*, it is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
 
 #### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
 🏆 *TOP 3 @ Maritime Hackathon 2025* <br>
@@ -69,5 +69,5 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-🧑‍💻 I’m currently working on a stealth startup with my friends on AR/VR and video generation. We will be apply for a few grants too! Reachout to me if you would like to collaborate or contribute! <br>
+🧑‍💻 I’m currently working on a stealth startup with my friends on AR/VR and video generation. We will be applying for a few grants too! Reach out to me if you would like to collaborate or contribute! <br>
 
