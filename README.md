@@ -8,7 +8,7 @@ Here are some of my work to get you started:
 
 ---
 
-### 🛠️ Projects & Hackathons
+### 🛠️ Hackathons
 
 #### 🏥  [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
