@@ -3,8 +3,8 @@
 <!--
 **Path-yang/Path-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
+My name is Zhenduo and I am currently a sophomore studying Information Systems in NUS
+Here are some of my work to get you started:
 
 ---
 
