@@ -11,10 +11,10 @@ Here are some of my work to get you started:
 ### 🛠️ Projects & Hackathons
 
 #### 🔶 [Sigmapore](https://github.com/clemenong1/Sigmapore)
-🏆 *Winner @ DigitalWellness Hackathon 2024*  
+🏆 *Finalist (top 10 out of 60+ teams) @ NUS Lifehack 2025*  
 An innovative mental wellness app that empowers youth to track, manage, and reflect on their digital consumption habits using gamification and AI-powered feedback. I collaborated on both the frontend UI and prompt engineering for GPT-based components.
 
-#### 🚀 [DSTA Code::X 2025](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+#### 🚀 [DSTA Brainhack: Code EXP 2025](https://github.com/Path-yang/DSTA-Code-Exp-2025)
 Developed a real-time visual monitoring system for satellite activities with anomaly detection using YOLOv8. Our team focused on space security, simulating unusual behavior in satellite constellations with data generation and model fine-tuning.
 
 #### 🧠 [Hackomania 2025](https://github.com/Path-yang/Hackomania_2025)
