@@ -10,9 +10,9 @@ Here are some of my work to get you started:
 
 ### 🛠️ Projects & Hackathons
 
-#### 🔶 [Sigmapore](https://github.com/clemenong1/Sigmapore)
+#### 🔶 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025*  
-An innovative mental wellness app that empowers youth to track, manage, and reflect on their digital consumption habits using gamification and AI-powered feedback. I collaborated on both the frontend UI and prompt engineering for GPT-based components.
+A React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
 #### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
 🏆 *Finalist (top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025*
