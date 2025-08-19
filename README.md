@@ -69,5 +69,5 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-🧑‍💻 I’m currently working on a stealth startup with my friends on AR/VR and video generation. We will be applying for a few grants too! Reach out to me if you would like to collaborate or contribute! <br>
+🧑‍💻 I’m currently working on a stealth startup with my friends on camera monitoring We will be applying for a few grants too! Reach out to me if you would like to collaborate or contribute! <br>
 
