@@ -64,7 +64,7 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-d-yang-3181b1208)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-d-yang-3181b1208)()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangzhenduoroger2002@gmail.com)
 
 ---
