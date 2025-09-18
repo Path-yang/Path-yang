@@ -59,8 +59,6 @@ Currently working on a machine learning project to detect chicken that are not l
 [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)]() 
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 
-<br>
-
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-d-yang-3181b1208)
