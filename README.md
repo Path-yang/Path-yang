@@ -8,6 +8,15 @@ Here are some of my work to get you started:
 
 ---
 
+### 🚫 SentinelAI (Failed Startup Attempt)
+
+Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon.  
+SentinelAI set out to build an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time. The idea was to leverage existing camera infrastructure with machine learning to prevent tragedies before they happen.  
+
+Although the project wasn’t funded or advanced in competitions, it was an excellent learning experience. We realized that while the concept was promising, it was technically difficult to scale reliably and our approach ended up too trivialized for long-term adoption. Without clear differentiation or a sustainable deployment path, it was hard to gain traction with evaluators.  
+
+Even though SentinelAI didn’t move forward, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real-world depth and sustainability.
+
 ### 🛠️ Hackathons
 
 #### 🏥  [SigmaHealth](https://github.com/clemenong1/Sigmapore)
@@ -76,5 +85,4 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-🧑‍💻 I’m currently working on a stealth startup with my friends on camera monitoring We will be applying for a few grants too! Reach out to me if you would like to collaborate or contribute! <br>
 
