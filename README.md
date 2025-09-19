@@ -8,9 +8,11 @@ Here are some of my work to get you started:
 
 ---
 
-### 🚫 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
+### 💡 Startups
 
-💡 *Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
+#### [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
+
+🚫 *Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
 
 SentinelAI set out to build an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
 The idea was to leverage existing camera infrastructure with machine learning to prevent tragedies before they happen.  
@@ -21,7 +23,7 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 
 ### 🛠️ Hackathons
 
-#### 🏥  [SigmaHealth](https://github.com/clemenong1/Sigmapore)
+#### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
 A React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
