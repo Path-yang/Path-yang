@@ -21,6 +21,8 @@ Although the project wasn’t funded or advanced in competitions, it was an exce
 
 Even though SentinelAI didn’t move forward, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real-world depth and sustainability.
 
+---
+
 ### 🛠️ Hackathons
 
 #### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
