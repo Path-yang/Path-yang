@@ -25,6 +25,9 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 
 ### 🛠️ Hackathons
 
+#### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
+Built during *SUTD WHAT THE HACK* A comprehensive senior focused web application built with Next.js 14, featuring AI companionship with HeyGen streaming avatars, hobby exploration hub with 30+ activities, social feed, and community class integration. Designed with accessibility first principles, multi language support, and mobile optimized interface for Singapore's senior community.
+
 #### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
 A React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
