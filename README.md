@@ -94,7 +94,7 @@ Currently working on a machine learning project to detect chicken that are not l
 ![MS Dynamics CRM](https://img.shields.io/badge/MS_Dynamics_CRM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![nopCommerce](https://img.shields.io/badge/nopCommerce-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📬 Contact
+#### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenduo-yang-3181b1208/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangzhenduoroger2002@gmail.com)
