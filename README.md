@@ -14,7 +14,7 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 
 #### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
 
-🚫 *Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
+*Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
 In a team of 5, we build we develop SentinelAI prototype. It set out to build an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
 The idea was to leverage existing camera infrastructure with machine learning to prevent tragedies before they happen.  
 
