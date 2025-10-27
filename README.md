@@ -8,6 +8,8 @@ Here are some of my work to get you started:
 
 You can visit my [personal website](https://www.zdyang.com/) too.
 
+---
+
 ## 💡 Startups/Personal Projects
 
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
