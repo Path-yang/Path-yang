@@ -28,8 +28,11 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 
 ## 🛠️ Hackathons
 
+### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
+🏆 *3rd runner-up (Top 4 out of 400+ teams)*
+
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
-Built during *SUTD WHAT THE HACK* in a team of 5. It is a comprehensive senior focused web application built with Next.js 14, featuring AI companionship with HeyGen streaming avatars, hobby exploration hub with 30+ activities, social feed, and community class integration. Designed with accessibility first principles, multi language support, and mobile optimized interface for Singapore's senior community.
+Built during *SUTD WHAT THE HACK* in a team of 5. It is a comprehensive senior focused web application, featuring AI companionship with HeyGen streaming avatars, hobby exploration hub with 30+ activities, social feed, and community class integration. Designed with accessibility first principles, multi language support, and mobile optimized interface for Singapore's senior community.
 
 ### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (top 10 out of 60+ teams), Best Usage of Data, and Best team for Theme 1 (health and wellbeing) @ NUS Lifehack 2025* <br>
@@ -42,16 +45,9 @@ Part of a team of 4 to build a React Native app that uses AI and community insig
 ### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
 Built during *Hackomania 2025* in a team of 5. It is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
 
-### ⚓ [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
+### 🚢 [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
 🏆 *TOP 3 @ Maritime Hackathon 2025* <br>
 Part of a team of 4 to develop an end-to-end NLP pipeline leveraging DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning, label resolution, and model fine-tuning
-
----
-
-## 🏫 School Project
-
-### 📚 [CS2030 Project – Discrete Event Simulator](https://github.com/Path-yang/CS2030-Project)
-Designed and implemented a modular event-driven simulator in Java, using functional programming concepts and stream pipelines to model a multi-server queuing system. The project emphasized effect-free design and immutability.
 
 ---
 
@@ -60,6 +56,13 @@ Designed and implemented a modular event-driven simulator in Java, using functio
 ### 🐔 [Kingleader Poultry Website](https://www.kingleaderpoultry.com/)
 Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Myanmar. Features include an interactive home page, dynamic product listing, and a "contact us" form linked to the company's email  <br> 
 Currently working on a machine learning project to detect chicken that are not laying eggs in the farm.
+
+---
+
+## 🏫 School Project
+
+### 📚 [CS2030 Project – Discrete Event Simulator](https://github.com/Path-yang/CS2030-Project)
+Designed and implemented a modular event-driven simulator in Java, using functional programming concepts and stream pipelines to model a multi-server queuing system. The project emphasized effect-free design and immutability.
 
 ---
 
