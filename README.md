@@ -46,7 +46,7 @@ Part of a team of 4 to build a React Native app that uses AI and community insig
 Built during *Hackomania 2025* in a team of 5. It is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
 
 ### 🚢 [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
-🏆 *TOP 3 @ Maritime Hackathon 2025* <br>
+🏆 *TOP 3 @ NUS & SMF Maritime Hackathon 2025*
 Part of a team of 4 to develop an end-to-end NLP pipeline leveraging DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning, label resolution, and model fine-tuning
 
 ---
