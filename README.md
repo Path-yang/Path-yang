@@ -10,6 +10,18 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 
 ---
 
+## 💼 Experiences
+
+### 👨🏻‍💻 Kingleader Co., Ltd (June 2025 - Present)
+*Software Engineer, Machine Learning Engineer*
+•	Worked on a computer vision system that uses a live camera feed and machine learning to identify chickens unlikely to lay eggs, supporting data-driven farm management.
+• Built the company’s dynamic web application from the ground up, integrating a CMS, email contact form, and other core features to streamline updates and customer engagement.
+
+
+### 👨🏻‍💻
+
+---
+
 ## 💡 Startups/Personal Projects
 
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
