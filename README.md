@@ -14,7 +14,7 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
 
-*Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
+*Attempted submission for NUS SoC VIP 10k grant (AY 25/26 Sem 1) and IDP IDEATE Makerthon 2025*  
 In a team of 5, we build we develop SentinelAI prototype. It set out to build an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
 The idea was to leverage existing camera infrastructure with machine learning to prevent tragedies before they happen.  
 
@@ -29,11 +29,11 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 ## 🛠️ Hackathons
 
 ### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
-🏆 *3rd runner-up (Top 4 out of 400+ teams)* <br>
+🏆 *3rd runner-up (Top 4 out of 400+ teams) @ PSA Code Sprint 2025* <br>
 Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system.
 
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
-Built during *SUTD WHAT THE HACK* in a team of 5. It is a comprehensive senior focused web application, featuring AI companionship with streaming avatars, hobby exploration hub, social feed, and community class integration. 
+Built during *SUTD WHAT THE HACK 2025* in a team of 5. It is a comprehensive senior focused web application, featuring AI companionship with streaming avatars, hobby exploration hub, social feed, and community class integration. 
 
 ### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
 🏆 *Finalist (Top 10 out of 60+ teams), best usage of data, best team for Theme 1: Health and Wellbeing @ NUS Lifehack 2025* <br>
