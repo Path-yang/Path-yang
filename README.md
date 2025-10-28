@@ -40,7 +40,7 @@ Built during *SUTD WHAT THE HACK 2025* in a team of 5. It is a comprehensive sen
 Part of a team of 4 to develop a React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
 ### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
-🏆 *Finalist (Top 20 out of 80+ teams) @ DSTA Brainhack-Code EXP 2025* <br>
+🏆 *Finalist (Top 20 out of 80+ teams) @ DSTA Brainhack Code EXP 2025* <br>
 Part of a team of 5 to build a React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
 ### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
