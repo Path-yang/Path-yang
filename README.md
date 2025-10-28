@@ -105,4 +105,6 @@ Designed and implemented a modular event-driven simulator in Java, using functio
 
 ---
 
+[![Zhenduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Path-yang)](https://github.com/anuraghazra/github-readme-stats)
+
 
