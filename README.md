@@ -104,7 +104,3 @@ Designed and implemented a modular event-driven simulator in Java, using functio
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangzhenduoroger2002@gmail.com)
 
 ---
-
-[![Zhenduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Path-yang)](https://github.com/anuraghazra/github-readme-stats)
-
-
