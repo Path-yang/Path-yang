@@ -60,13 +60,6 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
-## 🏫 School Project
-
-### 📚 [CS2030 Project – Discrete Event Simulator](https://github.com/Path-yang/CS2030-Project)
-Designed and implemented a modular event-driven simulator in Java, using functional programming concepts and stream pipelines to model a multi-server queuing system. The project emphasized effect-free design and immutability.
-
----
-
 ## 🛠 Tech Stack
 
 ### 🧠 Programming Languages
