@@ -55,8 +55,7 @@ Part of a team of 4 to develop an end-to-end NLP pipeline leveraging DistilBERT 
 ## 💼 Internship Project
 
 ### 🐔 [Kingleader Poultry Website](https://www.kingleaderpoultry.com/)
-Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Myanmar. Features include an interactive home page, dynamic product listing, and a "contact us" form linked to the company's email  <br> 
-Currently working on a machine learning project to detect chicken that are not laying eggs in the farm.
+Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Myanmar. Features include an interactive home page, dynamic CMS product listing, and a "contact us" form linked to the company's email
 
 ---
 
@@ -64,13 +63,15 @@ Currently working on a machine learning project to detect chicken that are not l
 
 My university projects include:
 <br> 
-CS2030: discrete event simulator 
+CS2030: one main project - discrete event simulator 
 <br> 
-IS2108: multiple prototypes; one main project 
+IS2108: multiple simple websites; one main project - AuroraMart
 <br> 
-IS2102:
+IS2102: multiple websites used for wireframes
 <br>
-IS3103
+IS3103: multiple sample dashboards
+<br>
+Visit my repositories to find out more
 
 ---
 
