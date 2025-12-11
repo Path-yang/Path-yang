@@ -60,6 +60,20 @@ Currently working on a machine learning project to detect chicken that are not l
 
 ---
 
+##  School Projects
+
+My university projects include:
+<br> 
+CS2030: discrete event simulator 
+<br> 
+IS2108: multiple prototypes; one main project 
+<br> 
+IS2102:
+<br>
+IS3103
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🧠 Programming Languages
