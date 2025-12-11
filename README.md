@@ -30,7 +30,7 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 
 ### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
 🏆 *3rd runner-up (Top 4 out of 400+ teams), best team for Problem Statement 3: Redefining Level 2 Product Ops @ PSA Code Sprint 2025* <br>
-Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system.
+Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system. (organiser requested that all submissions must not be shared publicly, you can contact me to find out more about this hackathon)
 
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
 Built during *SUTD WHAT THE HACK 2025* in a team of 5. It is a comprehensive senior focused web application, featuring AI companionship with streaming avatars, hobby exploration hub, social feed, and community class integration. 
