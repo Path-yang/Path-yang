@@ -67,11 +67,11 @@ CS2030: one main project - discrete event simulator
 <br> 
 IS2108: multiple simple websites; one main project - AuroraMart
 <br> 
-IS2102: multiple websites used for wireframes
+IS2102: multiple websites used for wireframing/demo
 <br>
 IS3103: multiple sample dashboards
 <br>
-Visit my repositories to find out more
+Visit my repositories to find out more.
 
 ---
 
