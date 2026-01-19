@@ -52,13 +52,6 @@ Part of a team of 4 to develop an end-to-end NLP pipeline leveraging DistilBERT 
 
 ---
 
-## 💼 Internship Project
-
-### 🐔 [Kingleader Poultry Website](https://www.kingleaderpoultry.com/)
-Interned as a solo developer to design and launch a modern, responsive business website for a B2B poultry supplier in Myanmar. Features include an interactive home page, dynamic CMS product listing, and a "contact us" form linked to the company's email
-
----
-
 ##  School Projects
 
 My university projects include:
