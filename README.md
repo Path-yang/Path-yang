@@ -39,7 +39,7 @@ SigmaPay is a cross-border financial platform built on the XRP Ledger that enabl
 ### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
 **🏆 3rd runner-up (Top 4 out of 400+ teams), best team for Problem Statement 3: Redefining Level 2 Product Ops** @ *PSA Code Sprint 2025*
 <br>
-Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system. (organiser requested that all submissions must not be shared publicly, you can contact me to find out more about this hackathon)
+Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system. (Codebase is confidential per organiser guidelines, feel free to reach out for a walkthrough)
 
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
 Built during *SUTD WHAT THE HACK 2025* in a team of 5. 
