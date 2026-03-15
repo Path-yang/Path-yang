@@ -29,13 +29,11 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 ### 🖱️: ̗̀➛ [SigmaGuide](https://github.com/Path-yang/SigmaGuide)
 Built during *NUS Hack&Roll 2026* in a team of 4. SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
 
-<br>
-
 ### 💸 [SigmaPay](https://github.com/Path-yang/SigmPay)
 Built during *NUS Fintech Summit 2026* in a team of 5. SigmaPay is a cross-border financial platform built on the XRP Ledger that enables instant remittances, conditional escrow payments, and real-world asset tokenization.
 
 ### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
-#### 🏆 *3rd runner-up (Top 4 out of 400+ teams), best team for Problem Statement 3: Redefining Level 2 Product Ops @ PSA Code Sprint 2025* <br>
+**🏆 *3rd runner-up (Top 4 out of 400+ teams), best team for Problem Statement 3: Redefining Level 2 Product Ops @ PSA Code Sprint 2025* **
 Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automates alert parsing, root cause analysis, and resolution planning with integrated ticketing and analysis system. (organiser requested that all submissions must not be shared publicly, you can contact me to find out more about this hackathon)
 
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
