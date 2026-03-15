@@ -29,6 +29,8 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 ### 🖱️: ̗̀➛ [SigmaGuide](https://github.com/Path-yang/SigmaGuide)
 Built during *NUS Hack&Roll 2026* in a team of 4. SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
 
+<br>
+
 ### 💸 [SigmaPay](https://github.com/Path-yang/SigmPay)
 Built during *NUS Fintech Summit 2026* in a team of 5. SigmaPay is a cross-border financial platform built on the XRP Ledger that enables instant remittances, conditional escrow payments, and real-world asset tokenization.
 
