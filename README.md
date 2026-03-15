@@ -86,7 +86,7 @@ Visit my repositories to find out more.
 
 ## 🛠 Tech Stack
 
-### 🧠 Programming Languages
+### </> Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
