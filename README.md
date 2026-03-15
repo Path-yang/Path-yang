@@ -29,6 +29,7 @@ Even though SentinelAI didn’t move forward, it taught us valuable lessons abou
 ### 🖱️: ̗̀➛ [SigmaGuide](https://github.com/Path-yang/SigmaGuide)
 Built during *NUS Hack&Roll 2026* in a team of 4. SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
 
+
 ### 💸 [SigmaPay](https://github.com/Path-yang/SigmPay)
 Built during *NUS Fintech Summit 2026* in a team of 5. SigmaPay is a cross-border financial platform built on the XRP Ledger that enables instant remittances, conditional escrow payments, and real-world asset tokenization.
 
@@ -40,18 +41,18 @@ Part of a team of 4 that developed an AI diagnostic assistant for PSA duty offic
 Built during *SUTD WHAT THE HACK 2025* in a team of 5. It is a comprehensive senior focused web application, featuring AI companionship with streaming avatars, hobby exploration hub, social feed, and community class integration. 
 
 ### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
-🏆 *Finalist (Top 10 out of 60+ teams), best usage of data, best team for Theme 1: Health and Wellbeing @ NUS Lifehack 2025* <br>
+#### 🏆 *Finalist (Top 10 out of 60+ teams), best usage of data, best team for Theme 1: Health and Wellbeing @ NUS Lifehack 2025* <br>
 Part of a team of 4 to develop a React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
 ### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
-🏆 *Finalist (Top 20 out of 80+ teams) @ DSTA Brainhack Code EXP 2025* <br>
+#### 🏆 *Finalist (Top 20 out of 80+ teams) @ DSTA Brainhack Code EXP 2025* <br>
 Part of a team of 5 to build a React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
 ### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
 Built during *Hackomania 2025* in a team of 5. It is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
 
 ### 🚢 [Ship Vessel risk detection model](https://github.com/Path-yang/Maritime-Hackathon-2025)
-🏆 *Top 3 (Called for top 3 in University Category out of 93 teams, final ranking undetermined due to absence from oral presentation) @ NUS & SMF Maritime Hackathon 2025* <br>
+#### 🏆 *Top 3 (Called for top 3 in University Category out of 93 teams, final ranking undetermined due to absence from oral presentation) @ NUS & SMF Maritime Hackathon 2025* <br>
 Part of a team of 4 to develop an end-to-end NLP pipeline leveraging DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning, label resolution, and model fine-tuning
 
 ---
