@@ -51,7 +51,7 @@ It is a comprehensive senior focused web application, featuring AI companionship
 <br>
 Part of a team of 4 to develop a React Native app that integrates real-time Singapore health data, GPT-powered health guidance, and community reporting to build an AI-driven, multilingual public health ecosystem.
 
-### 🚀 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+### 🔰 [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
 **🏆 Finalist (Top 20 out of 80+ teams)** @ *DSTA Brainhack Code EXP 2025*
 <br>
 Part of a team of 5 to build a React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
@@ -103,14 +103,14 @@ Visit my repositories to find out more.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Data & Databases
+### ⛁ Data & Databases
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧾 ERP & Business Tools
+### 🌐 ERP & Business Tools
 ![MS Dynamics 365 Business Central](https://img.shields.io/badge/MS_Dynamics_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![MS Dynamics CRM](https://img.shields.io/badge/MS_Dynamics_CRM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![nopCommerce](https://img.shields.io/badge/nopCommerce-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
