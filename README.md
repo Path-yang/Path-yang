@@ -57,7 +57,7 @@ Part of a team of 4 to develop a React Native app that integrates real-time Sing
 Part of a team of 5 to build a React Native app that uses AI and community insights to detect online scams, analyze suspicious URLs, and educate users through interactive modules, analytics, and a scam discussion forum.
 
 ### 🧠 [NoFap](https://github.com/Path-yang/Hackomania_2025)
-Built during *Hackomania 2025* in a team of 5. 
+Built during *GeeksHacking Hackomania 2025* in a team of 5. 
 <br>
 It is a modern Next.js web app that helps users track their porn addiction journey, earn achievements, and stay motivated with streaks, rewards, and community support.
 
