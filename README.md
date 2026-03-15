@@ -22,11 +22,14 @@ Although the project wasn’t funded or advanced in competitions, it was an exce
 
 Even though SentinelAI didn’t move forward, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real world depth and sustainability.
 
-### 🥷 Currently working on [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) and [GleamNote.ai](https://github.com/Path-yang/GleamNote.ai)
-
 ---
 
 ## 🛠️ Hackathons
+
+### 🖱️: ̗̀➛
+
+### 💸 [SigmaPay](https://github.com/Path-yang/SigmPay)
+Built during *NUS Fintech Summit 2026* in a team of 5. SigmaPay is a cross-border financial platform built on the XRP Ledger that enables instant remittances, conditional escrow payments, and real-world asset tokenization.
 
 ### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
 🏆 *3rd runner-up (Top 4 out of 400+ teams), best team for Problem Statement 3: Redefining Level 2 Product Ops @ PSA Code Sprint 2025* <br>
@@ -60,7 +63,7 @@ CS2030: one main project - discrete event simulator
 <br> 
 IS2108: multiple simple websites; one main project - AuroraMart
 <br> 
-IS2102: multiple websites used for wireframing/demo
+IS2102: multiple websites developed for wireframing/demo
 <br>
 IS3103: multiple sample dashboards
 <br>
