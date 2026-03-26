@@ -15,7 +15,9 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
 Attempted submission for *NUS SoC VIP grant (AY 25/26 Sem 1)* and *IDP IDEATE Makerthon 2025*.
 <br> 
-Even though SentinelAI didn't move forward, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real-world depth and sustainability. Notably, a highly similar company called [Lexius](https://www.ycombinator.com/companies/lexius) was later accepted into Y Combinator W26, proving that the core concept had real potential, and reminding us never to give up on an idea too early.
+In a team of 5, we built SentinelAI, an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time, leveraging existing camera infrastructure with machine learning to prevent tragedies before they happen.
+<br>
+Even though SentinelAI didn't move forward and get funded, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real-world depth and sustainability. Notably, a closely analogous company, [Lexius](https://www.ycombinator.com/companies/lexius), was later accepted into Y Combinator W26, proving that the core concept had real potential, and reminding us never to give up on an idea too early.
 
 ---
 
