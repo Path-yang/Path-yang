@@ -14,7 +14,8 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
 Attempted submission for *NUS SoC VIP grant (AY 25/26 Sem 1)* and *IDP IDEATE Makerthon 2025*.
-<br>
+<br> 
+SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
 
 ---
 
