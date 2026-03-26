@@ -15,7 +15,7 @@ You can visit my [personal website](https://www.zdyang.com/) too.
 ### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
 Attempted submission for *NUS SoC VIP grant (AY 25/26 Sem 1)* and *IDP IDEATE Makerthon 2025*.
 <br> 
-SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
+Even though SentinelAI didn't move forward, it taught us valuable lessons about evaluating technical feasibility vs. impact, and the importance of building projects with real-world depth and sustainability. Notably, a highly similar company called [Lexius](https://www.ycombinator.com/companies/lexius) was later accepted into Y Combinator W26, proving that the core concept had real potential, and reminding us never to give up on an idea too early.
 
 ---
 
