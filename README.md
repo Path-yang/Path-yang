@@ -28,7 +28,7 @@ Built during *NUS Hack&Roll 2026* in a team of 4.
 <br> 
 SigmaGuide is an Electron desktop app that captures your screen and uses OpenAI GPT-4o vision to analyze what's displayed, then breaks down any software task into atomic step-by-step instructions delivered through an always-on-top chat sidebar, automatically detecting when you complete each step and advancing to the next.
 <br>
-A very similar product, [HeyClicky](https://www.ycombinator.com/companies/heyclicky), is now backed by Y Combinator (Spring 2026 batch). Like SigmaGuide, it sees your screen and walks you through whatever software you're using, which shows there's real demand for AI that guides people through tools in real time.
+A very similar product, [HeyClicky](https://www.ycombinator.com/companies/heyclicky), is now backed by Y Combinator (X26). Like SigmaGuide, it sees your screen and walks you through whatever software you're using, which shows there's real demand for AI that guides people through tools in real time.
 
 ### 💸 [SigmaPay](https://github.com/Path-yang/SigmPay)
 Built during *NUS Fintech Summit 2026* in a team of 5. 
